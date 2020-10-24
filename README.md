@@ -1,2 +1,2 @@
 # privatepic
-G个人itHub图片仓库
+个人GitHub图片仓库
